@@ -1,0 +1,51 @@
+Question,Method,Expected Problem,Accepted,Attempts,Matching Rank,Similarity Score,Recall@5,Reciprocal Rank
+Python list index error,Fixed,Python list index error,True,1,1,0.8686330318450928,1,1.0
+Python list index error,Semantic,Python list index error,True,1,1,0.8112663626670837,1,1.0
+Python list index error,Recursive,Python list index error,True,1,1,0.8112663626670837,1,1.0
+Python list index error,Documentation,Python list index error,True,1,1,0.8112663626670837,1,1.0
+Python list index error,Agentic,Python list index error,True,1,1,0.8112663626670837,1,1.0
+Python KeyError in dictionary,Fixed,Python KeyError in dictionary,True,1,1,0.9020795822143555,1,1.0
+Python KeyError in dictionary,Semantic,Python KeyError in dictionary,True,1,1,0.862668514251709,1,1.0
+Python KeyError in dictionary,Recursive,Python KeyError in dictionary,True,1,1,0.862668514251709,1,1.0
+Python KeyError in dictionary,Documentation,Python KeyError in dictionary,True,1,1,0.862668514251709,1,1.0
+Python KeyError in dictionary,Agentic,Python KeyError in dictionary,True,1,1,0.862668514251709,1,1.0
+Python module not found,Fixed,Python module not found,True,1,1,0.8366178274154663,1,1.0
+Python module not found,Semantic,Python module not found,True,1,1,0.7471851110458374,1,1.0
+Python module not found,Recursive,Python module not found,True,1,1,0.9868226051330566,1,1.0
+Python module not found,Documentation,Python module not found,True,1,1,0.7471851110458374,1,1.0
+Python module not found,Agentic,Python module not found,True,1,1,0.7471851110458374,1,1.0
+Python virtual environment activation,Fixed,Python virtual environment activation,True,1,1,0.833155632019043,1,1.0
+Python virtual environment activation,Semantic,Python virtual environment activation,True,1,1,0.6211420893669128,1,1.0
+Python virtual environment activation,Recursive,Python virtual environment activation,True,1,1,0.9542673826217651,1,1.0
+Python virtual environment activation,Documentation,Python virtual environment activation,True,1,1,0.6211420893669128,1,1.0
+Python virtual environment activation,Agentic,Python virtual environment activation,True,1,1,0.6211420893669128,1,1.0
+Python file path error,Fixed,Python file path error,True,1,1,0.8409601449966431,1,1.0
+Python file path error,Semantic,Python file path error,True,1,1,0.8134024143218994,1,1.0
+Python file path error,Recursive,Python file path error,True,1,1,0.8134024143218994,1,1.0
+Python file path error,Documentation,Python file path error,True,1,1,0.8134024143218994,1,1.0
+Python file path error,Agentic,Python file path error,True,1,1,0.8134024143218994,1,1.0
+Pandas read_excel error,Fixed,Pandas read_excel error,True,1,1,0.7581241130828857,1,1.0
+Pandas read_excel error,Semantic,Pandas read_excel error,True,1,1,0.7524078488349915,1,1.0
+Pandas read_excel error,Recursive,Pandas read_excel error,True,1,1,0.7524078488349915,1,1.0
+Pandas read_excel error,Documentation,Pandas read_excel error,True,1,1,0.7524078488349915,1,1.0
+Pandas read_excel error,Agentic,Pandas read_excel error,True,1,1,0.7524078488349915,1,1.0
+Pandas missing column,Fixed,Pandas missing column,True,1,1,0.7738707065582275,1,1.0
+Pandas missing column,Semantic,Pandas missing column,True,1,1,0.7405774593353271,1,1.0
+Pandas missing column,Recursive,Pandas missing column,True,1,1,0.7405774593353271,1,1.0
+Pandas missing column,Documentation,Pandas missing column,True,1,1,0.7405774593353271,1,1.0
+Pandas missing column,Agentic,Pandas missing column,True,1,1,0.7405774593353271,1,1.0
+Pandas remove missing values,Fixed,Pandas remove missing values,True,1,1,0.831274151802063,1,1.0
+Pandas remove missing values,Semantic,Pandas remove missing values,True,1,1,0.7452071905136108,1,1.0
+Pandas remove missing values,Recursive,Pandas remove missing values,True,1,1,0.7452071905136108,1,1.0
+Pandas remove missing values,Documentation,Pandas remove missing values,True,1,1,0.7452071905136108,1,1.0
+Pandas remove missing values,Agentic,Pandas remove missing values,True,1,1,0.7452071905136108,1,1.0
+Sentence Transformers embeddings,Fixed,Sentence Transformers embeddings,True,1,1,0.8073165416717529,1,1.0
+Sentence Transformers embeddings,Semantic,Sentence Transformers embeddings,True,1,1,0.7809792160987854,1,1.0
+Sentence Transformers embeddings,Recursive,Sentence Transformers embeddings,True,1,1,0.9517350196838379,1,1.0
+Sentence Transformers embeddings,Documentation,Sentence Transformers embeddings,True,1,1,0.7809792160987854,1,1.0
+Sentence Transformers embeddings,Agentic,Sentence Transformers embeddings,True,1,1,0.7809792160987854,1,1.0
+What are text embeddings,Fixed,What are text embeddings,True,1,1,0.7587211728096008,1,1.0
+What are text embeddings,Semantic,What are text embeddings,True,1,1,0.7160622477531433,1,1.0
+What are text embeddings,Recursive,What are text embeddings,True,1,1,0.7160622477531433,1,1.0
+What are text embeddings,Documentation,What are text embeddings,True,1,1,0.7160622477531433,1,1.0
+What are text embeddings,Agentic,What are text embeddings,True,1,1,0.7160622477531433,1,1.0

@@ -1,0 +1,6 @@
+Method,Test_Questions,Successful_Retrievals,Recall_at_5,MRR
+Fixed,10,10,100.0,1.0
+Semantic,10,10,100.0,1.0
+Recursive,10,10,100.0,1.0
+Documentation,10,10,100.0,1.0
+Agentic,10,10,100.0,1.0

@@ -1,0 +1,34 @@
+Question,Generated Answer,Correctness,Faithfulness,Evaluation Reason
+Python list index error,"An **IndexError** occurs when you try to access a list element that doesn’t exist.  
+To avoid it, check the length of the list (`len(my_list)`) and make sure the index you use is within the valid range (0 to `len(my_list)-1`).",5,5,"The generated answer accurately explains that an IndexError occurs when accessing a non‑existent list element and advises checking the list length and index bounds, matching the reference solution and retrieved context."
+Python KeyError in dictionary,"A **KeyError** in Python happens when you try to access a dictionary entry with a key that isn’t present in that dictionary.  
+To avoid or handle this error you can:
+
+1. **Use `dict.get(key, default)`** – this returns the value if the key exists, otherwise it returns `default` (or `None` if you don’t specify one).  
+2. **Check for the key first** – e.g., `if key in my_dict:` before accessing `my_dict[key]`.  
+3. **Provide a default value** – either by using `get()` as above or by setting a default in the dictionary with `dict.setdefault(key, default)`.
+
+These approaches prevent the KeyError by ensuring you never attempt to retrieve a non‑existent key.",5,5,"The answer accurately explains that a KeyError occurs when a key is missing, and it correctly lists the recommended solutions (using get, checking key existence, and providing defaults). All statements are supported by the retrieved context and reference solution."
+Python module not found,A ModuleNotFoundError usually means the package is not installed in the active environment. Activate the correct virtual environment and install the package using pip.,5,5,"The generated answer exactly matches the reference solution and the retrieved context, correctly addressing the question without adding unsupported claims."
+Python virtual environment activation,"To activate a Python virtual environment in PowerShell:
+
+1. **Create the virtual environment** (if you haven’t already):
+
+   ```powershell
+   python -m venv venv
+   ```
+
+2. **Activate it**:
+
+   ```powershell
+   .\venv\Scripts\Activate.ps1
+   ```
+
+After running the activation command, your shell prompt will change to indicate that the virtual environment is active, and you can proceed to install dependencies or run your Python scripts within that isolated environment.",5,5,"The answer accurately follows the reference solution, correctly describing how to create and activate a Python virtual environment in PowerShell without adding unsupported or contradictory information."
+Python file path error,"A **FileNotFoundError** in Python usually means that the path you supplied is wrong or the file simply isn’t there.  
+To fix it:
+
+1. **Check the working directory** – make sure you’re running the script from the directory you expect.  
+2. **Use the correct path** – either a relative path that’s correct from the current working directory or an absolute path that points directly to the file.  
+
+Once the path is correct and the file exists, the error should disappear.",5,5,The generated answer accurately reflects the reference solution and is fully supported by the retrieved context.
